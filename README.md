@@ -1,4 +1,4 @@
-# HW_PRECOURESE
+# HW_PRE_COURSE
 프리 개인 과제를 위한 Repository입니다.
 
 ## 자기소개
